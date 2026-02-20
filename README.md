@@ -38,6 +38,5 @@ https://detecting-ai-generated-fraud-content.onrender.com/
 4 - Deep learning-based model improvement
 5 - Multi-language detection support
 
-AUTHOR
-Shreya Sahu
-B.Tech Information Technology(2028)
+ TEAM
+Developed as a collaborative team project during a hackathon.
