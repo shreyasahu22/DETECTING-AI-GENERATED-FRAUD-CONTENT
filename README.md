@@ -2,9 +2,9 @@ An intelligent web-based application designed to detect phishing messages, OTP s
 The system analyzes user-input text and predicts a fraud risk percentage using a machine learning model.
 Developed as part of a cybersecurity-focused hackathon project.
 
-  ## KEY FEATURES
+  # KEY FEATURES
   
-1 - # Fraud & phishing message detection
+1 -  Fraud & phishing message detection
 
 2 - AI-generated content identification
 
@@ -14,11 +14,11 @@ Developed as part of a cybersecurity-focused hackathon project.
 
 5 - Live deployment for public access
 
-**LIVE APPLICATION**
+# LIVE APPLICATION
 
 https://detecting-ai-generated-fraud-content.onrender.com/
 
- **TECH STACK**
+ # TECH STACK
  
 1 - Python
 
@@ -34,7 +34,7 @@ https://detecting-ai-generated-fraud-content.onrender.com/
 
 7 - Render (Cloud Deployment)
 
- **HOW IT WORKS**
+ # HOW IT WORKS
  
 1 - User enters suspicious text (message/email/OTP content).
 
@@ -44,11 +44,11 @@ https://detecting-ai-generated-fraud-content.onrender.com/
 
 4 - Risk percentage is displayed to the user instantly.
 
- **OBJECTIVE**
+ # OBJECTIVE
  
  To enhance cybersecurity awareness by helping users identify potentially fraudulent or AI-generated scam messages before taking action.
 
- **FUTURE ENHANCEMENTS**
+ # FUTURE ENHANCEMENTS
  
 1 - Email & SMS API integration
 
@@ -60,6 +60,6 @@ https://detecting-ai-generated-fraud-content.onrender.com/
 
 5 - Multi-language detection support
 
- **TEAM**
+ # TEAM
  
 Developed as a collaborative team project during a hackathon.
