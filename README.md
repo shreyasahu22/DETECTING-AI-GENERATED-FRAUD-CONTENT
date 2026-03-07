@@ -2,7 +2,7 @@ An intelligent web-based application designed to detect phishing messages, OTP s
 The system analyzes user-input text and predicts a fraud risk percentage using a machine learning model.
 Developed as part of a cybersecurity-focused hackathon project.
 
-  ##KEY FEATURES##
+  #KEY FEATURES#
   
 1 - Fraud & phishing message detection
 
